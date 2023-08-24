@@ -40,3 +40,10 @@
 .form-control {
   margin: 0.5rem 0;
 }
+
+#image-preview {
+  display: none;
+  height: 5rem;
+  object-fit: cover;
+  width: 5rem;
+}
